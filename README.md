@@ -1,2 +1,1 @@
-# Bhagawati
-About School
+Web development treaning.
